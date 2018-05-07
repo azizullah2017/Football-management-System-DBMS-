@@ -1,0 +1,15 @@
+drop table player;
+
+create table player( P_id int NOT NULL PRIMARY KEY ,  P_name varchar(20) NOT NULL, P_age int NOT NULL , P_weekly_wage int);
+insert into player values(9001,'Thibaut Courtois',22,60000);
+insert into player values(9002,'Mark Schwarzer',32,120000);
+insert into player values(9003,'Iker Casillas',33,165000);
+insert into player values(9004,'Diego Lopez',32,40000);
+insert into player values(9005,'Pepe',31,110000);
+insert into player values(9006,'Isco',22,60000);
+insert into player values(9007,'Angel di María',26,95000);
+insert into  player values(9008,'John Terry',33,175000);
+insert into player values(9009,'Ramires',27,65000);
+insert into player values(9011,'Fernando Torres',30,175000);
+insert into player values(9010,' Aziz ullah',30,175000);
+insert into player values(9012,'Diego Costa',25,200000);

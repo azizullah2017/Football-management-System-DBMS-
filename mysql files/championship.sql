@@ -1,0 +1,16 @@
+Create Table championship( chm_id varchar(10) PRIMARY KEY ,  chm_name int NOT NULL, no_of_matches int NOT NULL );
+insert into championship values('BLA ','Balochistan league',20);
+insert into championship values('PJB','Punjab league',25);
+insert into championship values('KPK','khaber pakhtunkhwa league',27);
+insert into championship values('SHD','Sinhd league',29);
+insert into championship values('GIG','Gilgit Baldistan League',30);
+insert into championship values('KSH','Azad khashmir league ',31);
+insert into championship values('ISM','Islamabad league',35);
+insert into  championship values('KAR','Karachi league',38);
+insert into championship values('LAH','Lahore league',39);
+insert into  championship values('QTA','Quetta league',34);
+insert into championship values('PWR','Peshawar league',40);
+insert into  championship values('HZA','Hunza league',41);
+insert into championship values('MAZ','Muzafirabad league',42);
+insert into championship values('ALH','All hazara league',43);
+insert into  championship values('APL','All pakistan league',47);
